@@ -1,1 +1,1 @@
-# Auto_Training1
+This is READme file for public repository. 
